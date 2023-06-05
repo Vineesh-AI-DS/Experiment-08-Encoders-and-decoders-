@@ -107,34 +107,29 @@ endmodule
 
 ### OUTPUT:
 
-### RTL LOGIC  
+### RTL LOGIC:  
 #### ENCODER:
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/ae0ffa17-69fd-4441-b802-fe1458096a30)
+
 #### DECODER:
-
-
-
-
-
-
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/612b9e87-c1d8-4e1e-8e4f-72e73b0591b8)
 
 
 ### TIMING DIGRAMS:
 #### ENCODER:
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/481872de-6556-4c61-81f0-853d9d7b01d8)
+
 #### DECODER:
-
-
-
-
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/a250a9b9-409f-4fd4-be21-4841d12a2045)
 
 
 ### TRUTH TABLE: 
 #### ENCODER:
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/2f5f777b-c36a-46f1-8565-409f7a0754fb)
+
 #### DECODER:
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/87bc2006-463a-4a5c-8732-0d2c056c6adb)
 
 
-
-
-
-
-### RESULTS 
+### RESULT: 
 Thus, 8 to 3 Encoder and 3 to 8 Decoder is implemented using verilog and its outputs is validated.

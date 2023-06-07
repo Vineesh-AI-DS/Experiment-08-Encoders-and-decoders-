@@ -125,7 +125,8 @@ endmodule
 
 ### TRUTH TABLE: 
 #### ENCODER:
-![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/2f5f777b-c36a-46f1-8565-409f7a0754fb)
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/51cbaae4-b14b-49ca-a297-4d1686c13853)
+
 
 #### DECODER:
 ![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/87bc2006-463a-4a5c-8732-0d2c056c6adb)

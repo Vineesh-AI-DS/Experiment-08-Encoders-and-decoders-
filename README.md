@@ -133,7 +133,8 @@ endmodule
 
 
 #### DECODER:
-![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/87bc2006-463a-4a5c-8732-0d2c056c6adb)
+![image](https://github.com/Vineesh-AI-DS/Experiment-08-Encoders-and-decoders-/assets/93427254/a7b3d6c6-e9ba-46c6-8e88-150521b6bc90)
+
 
 
 ### RESULT: 
